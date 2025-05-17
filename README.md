@@ -140,8 +140,6 @@ Watch a 1:30 minute demonstration of the Streamlit application showcasing its fe
 
 **[Watch the Demo Video on YouTube](https://img.youtube.com/vi/rMTl9fgsOFQ/0.jpg)**
 
-*(**Note:** Replace `YOUR_YOUTUBE_VIDEO_URL_HERE` with the actual URL of your YouTube video.)*
-
 ## 🙏 Contributing
 
 If you would like to contribute to this project, please open an issue or submit a pull request.
