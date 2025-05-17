@@ -13,7 +13,23 @@ This project encompasses a machine learning model developed to predict bank cust
 
 ## 📂 Project Structure
 
-bank-customer-churn-prediction/├── data/                     # Folder containing the datasets│   ├── churn_modeling.csv    # Original churn dataset (additional source for training)│   ├── test.csv              # Competition test dataset│   └── train.csv             # Competition training dataset├── venv/                     # Virtual environment folder (optional, can be excluded with .gitignore)├── pycache/              # Python cache files (optional, can be excluded with .gitignore)├── app.py                    # Streamlit web application script├── churn_model_pipeline.joblib # Trained and saved model pipeline├── custom_transformers.py    # Custom Scikit-learn transformers and functions├── models.ipynb              # Jupyter Notebook (data analysis, model development, and training)├── README.md                 # This file├── requirements.txt          # Required Python libraries└── save_pipeline.py          # Script to train and save the model pipeline
+```text
+bank-customer-churn-prediction/
+├── data/                     # Folder containing the datasets
+│   ├── churn_modeling.csv    # Original churn dataset (additional source for training)
+│   ├── test.csv              # Competition test dataset
+│   └── train.csv             # Competition training dataset
+├── venv/                     # Virtual environment folder (optional, can be excluded with .gitignore)
+├── __pycache__/              # Python cache files (optional, can be excluded with .gitignore)
+├── app.py                    # Streamlit web application script
+├── churn_model_pipeline.joblib # Trained and saved model pipeline
+├── custom_transformers.py    # Custom Scikit-learn transformers and functions
+├── models.ipynb              # Jupyter Notebook (data analysis, model development, and training)
+├── README.md                 # This file
+├── requirements.txt          # Required Python libraries
+└── save_pipeline.py          # Script to train and save the model pipeline
+```
+
 ## ✨ Key Features and Process
 
 The project includes the following main steps:
