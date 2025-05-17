@@ -136,9 +136,11 @@ The project includes the following main steps:
 
 ## 🎬 Demo Video
 
-https://github.com/yldzburhan/bank-customer-churn-prediction-system/issues/1#issue-3070775573
+Watch a 1:30 minute demonstration of the Streamlit application showcasing its features and prediction capabilities:
 
-*Watch a 1:30 minute demonstration of the Streamlit application showcasing its features and prediction capabilities. Click the image above or [this link](https://youtu.be/rMTl9fgsOFQ) to view the video on YouTube.*
+**[Watch the Demo Video on YouTube](https://img.youtube.com/vi/rMTl9fgsOFQ/0.jpg)**
+
+*(**Note:** Replace `YOUR_YOUTUBE_VIDEO_URL_HERE` with the actual URL of your YouTube video.)*
 
 ## 🙏 Contributing
 
