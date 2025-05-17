@@ -138,7 +138,7 @@ The project includes the following main steps:
 
 Watch a 1:30 minute demonstration of the Streamlit application showcasing its features and prediction capabilities:
 
-[![Bank Customer Churn Prediction App Demo](https://www.youtube.com/watch?v=rMTl9fgsOFQ)](https://img.youtube.com/vi/rMTl9fgsOFQ/0.jpg)
+**[Click here to watch the Demo Video on YouTube](https://www.youtube.com/watch?v=rMTl9fgsOFQ)**
 
 ## 🙏 Contributing
 
