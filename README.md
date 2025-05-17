@@ -138,7 +138,7 @@ The project includes the following main steps:
 
 Watch a 1:30 minute demonstration of the Streamlit application showcasing its features and prediction capabilities:
 
-**[Watch the Demo Video on YouTube](https://img.youtube.com/vi/rMTl9fgsOFQ/0.jpg)**
+[![Bank Customer Churn Prediction App Demo](https://www.youtube.com/watch?v=rMTl9fgsOFQ)](https://img.youtube.com/vi/rMTl9fgsOFQ/0.jpg)
 
 ## 🙏 Contributing
 
@@ -146,4 +146,4 @@ If you would like to contribute to this project, please open an issue or submit 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details (if present).
+This project is licensed under the MIT License. See the `LICENSE` file for details.
