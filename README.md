@@ -134,6 +134,12 @@ The project includes the following main steps:
 * Ability to make batch predictions by uploading customer data (e.g., via CSV).
 * Further enrichment of the user interface and an increase in visualizations.
 
+## 🎬 Demo Video
+
+[![Bank Customer Churn Prediction App Demo]](https://youtu.be/rMTl9fgsOFQ)
+
+*Watch a 1:30 minute demonstration of the Streamlit application showcasing its features and prediction capabilities. Click the image above or [this link](https://youtu.be/rMTl9fgsOFQ) to view the video on YouTube.*
+
 ## 🙏 Contributing
 
 If you would like to contribute to this project, please open an issue or submit a pull request.
